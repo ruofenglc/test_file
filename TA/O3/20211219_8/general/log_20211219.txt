@@ -1,0 +1,11 @@
+; IDL Version 8.5.1 (linux x86_64 m64)
+; Journal File for LQH@node19
+; Working directory: /home/LQH/auto_O3/32/tracegas_retrieval
+; Date: Sun Dec 19 18:54:55 2021
+ 
+;Starting O3 profile retrieval for 19/12/2021
+;Reading DOAS data for retrieval between 8:00:00 and 9:00:00 UT
+;w_saa          10
+;curpath=/home/LQH/auto_O3/32/tracegas_retrieval
+;read scd control_1=32
+;No DOAS data present for this day!
